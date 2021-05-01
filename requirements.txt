@@ -6,4 +6,4 @@ python-dotenv>=0.10
 tenacity>=6.0.0 
 python-magic
 streamlink
-
+yt-dlp
